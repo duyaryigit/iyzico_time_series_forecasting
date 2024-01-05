@@ -1,7 +1,7 @@
 # Iyzico Transaction Volume Prediction
 
 <p align="center">
-  <img src="https://www.tendereasy.com/fileadmin/user_upload/TenderEasy_June_blog_post.jpg" alt="Forecasting"/>
+  <img src="https://geniusnhu.netlify.app/2020/02/06/comprehensive-understanding-on-time-series-forecasting/featured.jpg" alt="Forecasting"/>
 </p>
 
 ---
